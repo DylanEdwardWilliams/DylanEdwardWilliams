@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DylanEdwardWilliams
-- 👀 I’m interested in software development and frontend ddevelopment
+- 👀 I’m interested in software development and frontend development
 - 🌱 I’m currently learning how to use GitHub 
 - 💞️ I’m looking to collaborate on anything to help me learn 
 - 📫 Reach me here or on my email: dedw13@gmail.com
